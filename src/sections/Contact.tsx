@@ -3,7 +3,7 @@ const LINKS = [
     id: 'email',
     label: 'Email',
     value: 'hello@example.com',
-    href: 'mailto:hello@example.com',
+    href: 'mailto:psbksshreya@gmail.com',
     external: false,
   },
   {
