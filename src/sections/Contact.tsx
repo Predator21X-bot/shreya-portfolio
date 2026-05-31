@@ -2,7 +2,7 @@ const LINKS = [
   {
     id: 'email',
     label: 'Email',
-    value: 'hello@example.com',
+    value: 'psbksshreya@gmail.com',
     href: 'mailto:psbksshreya@gmail.com',
     external: false,
   },
